@@ -1,0 +1,23 @@
+﻿{
+  "name": "VALIENTE, MI POLLA EN TU FRENTE",
+  "image": "gitgud", // IMAGE STR (MUST BE REGISTERED ON APPLICATION)
+  "status": "",
+  "applicationId": "1009036268828643339", // REGISTER IN DEVPORTAL AND OBTAIN ONE FOR YOURSELF
+  "smallName": "EXAMPLENAME",
+  "smallImage": "IMAGERESOURCEPATH",
+
+
+  "Buttons": // MAX 2 BUTTONS
+  {
+    "Button1": {
+      "active": "0",
+      "label": "EXAMPLEBUTTON",
+      "url": "https://www.google.com"
+    },
+    "Button2": {
+      "active": "0",
+      "label": "EXAMPLEBUTTON",
+      "url": "https://www.google.com"
+    }
+  }
+}
